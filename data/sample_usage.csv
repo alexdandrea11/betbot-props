@@ -1,0 +1,7 @@
+player,team,role,routes_per_g,targets_share,catch_rate,aDot,yprr,carries_share,yards_per_carry,snap_share,recent_weight,sample_games
+G. Wilson,NYJ,WR,36,0.30,0.60,10,2.0,0.00,0.0,0.92,0.7,10
+C. Lamb,DAL,WR,34,0.29,0.68,9,2.4,0.00,0.0,0.90,0.7,10
+B. Hall,NYJ,RB,16,0.12,0.74,1,1.6,0.62,4.6,0.68,0.6,10
+T. Pollard,DAL,RB,15,0.11,0.74,1,1.5,0.65,4.4,0.66,0.6,10
+J. Allen,BUF,QB,0,0.00,0.00,0,0.0,0.20,4.8,1.00,0.6,10
+A. Brown,PHI,WR,32,0.27,0.65,12,2.6,0.00,0.0,0.88,0.6,10
